@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="326" viewBox="0 0 820 326" role="img" aria-labelledby="title description">
+  <title id="title">Codex Activity</title>
+  <desc id="description">52-week view · through 2026-11-15 · summaries as of last sync. 1858093867 lifetime tokens. Last data upload: 2026-11-15 16:24 UTC+08:00. Dashed cells are unknown, not zero.</desc>
+  <rect x="0.5" y="0.5" width="819" height="325" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:#e6edf3}.muted{fill:#8b949e;font-size:11px}.metric{font-size:25px;font-weight:600}.label{font-size:11px;fill:#8b949e}</style>
+  <text x="30" y="32" font-size="18" font-weight="600">Codex Activity</text>
+  <text x="30" y="51" class="muted">52-week view · through 2026-11-15 · summaries as of last sync</text>
+  <text x="30" y="77" class="label">TOTAL TOKENS</text><text x="30" y="106" class="metric">1.86B</text>
+  <text x="300" y="77" class="label">ACTIVE STREAK · AT LAST SYNC</text><text x="300" y="106" class="metric">11 days</text>
+  <text x="610" y="77" class="label">RECORDED DAYS</text><text x="610" y="106" class="metric">86</text>
+  <g class="muted"><text x="30" y="134">Nov</text><text x="58" y="134">Dec</text><text x="114" y="134">Jan</text><text x="184" y="134">Feb</text><text x="240" y="134">Mar</text><text x="296" y="134">Apr</text><text x="352" y="134">May</text><text x="422" y="134">Jun</text><text x="478" y="134">Jul</text><text x="534" y="134">Aug</text><text x="604" y="134">Sep</text><text x="660" y="134">Oct</text><text x="730" y="134">Nov</text></g>
+  <rect x="30" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2025-11-16: outside view</title></rect>
+  <rect x="30" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-17: unknown / not synced</title></rect>
+  <rect x="30" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-18: unknown / not synced</title></rect>
+  <rect x="30" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-19: unknown / not synced</title></rect>
+  <rect x="30" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-20: unknown / not synced</title></rect>
+  <rect x="30" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-21: unknown / not synced</title></rect>
+  <rect x="30" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-22: unknown / not synced</title></rect>
+  <rect x="44" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-23: unknown / not synced</title></rect>
+  <rect x="44" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-24: unknown / not synced</title></rect>
+  <rect x="44" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-25: unknown / not synced</title></rect>
+  <rect x="44" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-26: unknown / not synced</title></rect>
+  <rect x="44" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-27: unknown / not synced</title></rect>
+  <rect x="44" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-28: unknown / not synced</title></rect>
+  <rect x="44" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-29: unknown / not synced</title></rect>
+  <rect x="58" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-30: unknown / not synced</title></rect>
+  <rect x="58" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-01: unknown / not synced</title></rect>
+  <rect x="58" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-02: unknown / not synced</title></rect>
+  <rect x="58" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-03: unknown / not synced</title></rect>
+  <rect x="58" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-04: unknown / not synced</title></rect>
+  <rect x="58" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-05: unknown / not synced</title></rect>
+  <rect x="58" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-06: unknown / not synced</title></rect>
+  <rect x="72" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-07: unknown / not synced</title></rect>
+  <rect x="72" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-08: unknown / not synced</title></rect>
+  <rect x="72" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-09: unknown / not synced</title></rect>
+  <rect x="72" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-10: unknown / not synced</title></rect>
+  <rect x="72" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-11: unknown / not synced</title></rect>
+  <rect x="72" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-12: unknown / not synced</title></rect>
+  <rect x="72" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-13: unknown / not synced</title></rect>
+  <rect x="86" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-14: unknown / not synced</title></rect>
+  <rect x="86" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-15: unknown / not synced</title></rect>
+  <rect x="86" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-16: unknown / not synced</title></rect>
+  <rect x="86" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-17: unknown / not synced</title></rect>
+  <rect x="86" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-18: unknown / not synced</title></rect>
+  <rect x="86" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-19: unknown / not synced</title></rect>
+  <rect x="86" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-20: unknown / not synced</title></rect>
+  <rect x="100" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-21: unknown / not synced</title></rect>
+  <rect x="100" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-22: unknown / not synced</title></rect>
+  <rect x="100" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-23: unknown / not synced</title></rect>
+  <rect x="100" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-24: unknown / not synced</title></rect>
+  <rect x="100" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-25: unknown / not synced</title></rect>
+  <rect x="100" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-26: unknown / not synced</title></rect>
+  <rect x="100" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-27: unknown / not synced</title></rect>
+  <rect x="114" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-28: unknown / not synced</title></rect>
+  <rect x="114" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-29: unknown / not synced</title></rect>
+  <rect x="114" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-30: unknown / not synced</title></rect>
+  <rect x="114" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-12-31: unknown / not synced</title></rect>
+  <rect x="114" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-01: unknown / not synced</title></rect>
+  <rect x="114" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-02: unknown / not synced</title></rect>
+  <rect x="114" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-03: unknown / not synced</title></rect>
+  <rect x="128" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-04: unknown / not synced</title></rect>
+  <rect x="128" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-05: unknown / not synced</title></rect>
+  <rect x="128" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-06: unknown / not synced</title></rect>
+  <rect x="128" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-07: unknown / not synced</title></rect>
+  <rect x="128" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-08: unknown / not synced</title></rect>
+  <rect x="128" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-09: unknown / not synced</title></rect>
+  <rect x="128" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-10: unknown / not synced</title></rect>
+  <rect x="142" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-11: unknown / not synced</title></rect>
+  <rect x="142" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-12: unknown / not synced</title></rect>
+  <rect x="142" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-13: unknown / not synced</title></rect>
+  <rect x="142" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-14: unknown / not synced</title></rect>
+  <rect x="142" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-15: unknown / not synced</title></rect>
+  <rect x="142" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-16: unknown / not synced</title></rect>
+  <rect x="142" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-17: unknown / not synced</title></rect>
+  <rect x="156" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-18: unknown / not synced</title></rect>
+  <rect x="156" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-19: unknown / not synced</title></rect>
+  <rect x="156" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-20: unknown / not synced</title></rect>
+  <rect x="156" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-21: unknown / not synced</title></rect>
+  <rect x="156" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-22: unknown / not synced</title></rect>
+  <rect x="156" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-23: unknown / not synced</title></rect>
+  <rect x="156" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-24: unknown / not synced</title></rect>
+  <rect x="170" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-25: unknown / not synced</title></rect>
+  <rect x="170" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-26: unknown / not synced</title></rect>
+  <rect x="170" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-27: unknown / not synced</title></rect>
+  <rect x="170" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-28: unknown / not synced</title></rect>
+  <rect x="170" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-29: unknown / not synced</title></rect>
+  <rect x="170" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-30: unknown / not synced</title></rect>
+  <rect x="170" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-01-31: unknown / not synced</title></rect>
+  <rect x="184" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-01: unknown / not synced</title></rect>
+  <rect x="184" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-02: unknown / not synced</title></rect>
+  <rect x="184" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-03: unknown / not synced</title></rect>
+  <rect x="184" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-04: unknown / not synced</title></rect>
+  <rect x="184" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-05: unknown / not synced</title></rect>
+  <rect x="184" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-06: unknown / not synced</title></rect>
+  <rect x="184" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-07: unknown / not synced</title></rect>
+  <rect x="198" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-08: unknown / not synced</title></rect>
+  <rect x="198" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-09: unknown / not synced</title></rect>
+  <rect x="198" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-10: unknown / not synced</title></rect>
+  <rect x="198" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-11: unknown / not synced</title></rect>
+  <rect x="198" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-12: unknown / not synced</title></rect>
+  <rect x="198" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-13: unknown / not synced</title></rect>
+  <rect x="198" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-14: unknown / not synced</title></rect>
+  <rect x="212" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-15: unknown / not synced</title></rect>
+  <rect x="212" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-16: unknown / not synced</title></rect>
+  <rect x="212" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-17: unknown / not synced</title></rect>
+  <rect x="212" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-18: unknown / not synced</title></rect>
+  <rect x="212" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-19: unknown / not synced</title></rect>
+  <rect x="212" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-20: unknown / not synced</title></rect>
+  <rect x="212" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-21: unknown / not synced</title></rect>
+  <rect x="226" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-22: unknown / not synced</title></rect>
+  <rect x="226" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-23: unknown / not synced</title></rect>
+  <rect x="226" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-24: unknown / not synced</title></rect>
+  <rect x="226" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-25: unknown / not synced</title></rect>
+  <rect x="226" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-26: unknown / not synced</title></rect>
+  <rect x="226" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-27: unknown / not synced</title></rect>
+  <rect x="226" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-02-28: unknown / not synced</title></rect>
+  <rect x="240" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-01: unknown / not synced</title></rect>
+  <rect x="240" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-02: unknown / not synced</title></rect>
+  <rect x="240" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-03: unknown / not synced</title></rect>
+  <rect x="240" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-04: unknown / not synced</title></rect>
+  <rect x="240" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-05: unknown / not synced</title></rect>
+  <rect x="240" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-06: unknown / not synced</title></rect>
+  <rect x="240" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-07: unknown / not synced</title></rect>
+  <rect x="254" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-08: unknown / not synced</title></rect>
+  <rect x="254" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-09: unknown / not synced</title></rect>
+  <rect x="254" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-10: unknown / not synced</title></rect>
+  <rect x="254" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-11: unknown / not synced</title></rect>
+  <rect x="254" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-12: unknown / not synced</title></rect>
+  <rect x="254" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-13: unknown / not synced</title></rect>
+  <rect x="254" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-14: unknown / not synced</title></rect>
+  <rect x="268" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-15: unknown / not synced</title></rect>
+  <rect x="268" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-16: unknown / not synced</title></rect>
+  <rect x="268" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-17: unknown / not synced</title></rect>
+  <rect x="268" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-18: unknown / not synced</title></rect>
+  <rect x="268" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-19: unknown / not synced</title></rect>
+  <rect x="268" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-20: unknown / not synced</title></rect>
+  <rect x="268" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-21: unknown / not synced</title></rect>
+  <rect x="282" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-22: unknown / not synced</title></rect>
+  <rect x="282" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-23: unknown / not synced</title></rect>
+  <rect x="282" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-24: unknown / not synced</title></rect>
+  <rect x="282" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-25: unknown / not synced</title></rect>
+  <rect x="282" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-26: unknown / not synced</title></rect>
+  <rect x="282" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-27: unknown / not synced</title></rect>
+  <rect x="282" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-28: unknown / not synced</title></rect>
+  <rect x="296" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-29: unknown / not synced</title></rect>
+  <rect x="296" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-30: unknown / not synced</title></rect>
+  <rect x="296" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-03-31: unknown / not synced</title></rect>
+  <rect x="296" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-01: unknown / not synced</title></rect>
+  <rect x="296" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-02: unknown / not synced</title></rect>
+  <rect x="296" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-03: unknown / not synced</title></rect>
+  <rect x="296" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-04: unknown / not synced</title></rect>
+  <rect x="310" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-05: unknown / not synced</title></rect>
+  <rect x="310" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-06: unknown / not synced</title></rect>
+  <rect x="310" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-07: unknown / not synced</title></rect>
+  <rect x="310" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-08: unknown / not synced</title></rect>
+  <rect x="310" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-09: unknown / not synced</title></rect>
+  <rect x="310" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-10: unknown / not synced</title></rect>
+  <rect x="310" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-11: unknown / not synced</title></rect>
+  <rect x="324" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-12: unknown / not synced</title></rect>
+  <rect x="324" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-13: unknown / not synced</title></rect>
+  <rect x="324" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-14: unknown / not synced</title></rect>
+  <rect x="324" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-15: unknown / not synced</title></rect>
+  <rect x="324" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-16: unknown / not synced</title></rect>
+  <rect x="324" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-17: unknown / not synced</title></rect>
+  <rect x="324" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-18: unknown / not synced</title></rect>
+  <rect x="338" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-19: unknown / not synced</title></rect>
+  <rect x="338" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-20: unknown / not synced</title></rect>
+  <rect x="338" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-21: unknown / not synced</title></rect>
+  <rect x="338" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-22: unknown / not synced</title></rect>
+  <rect x="338" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-23: unknown / not synced</title></rect>
+  <rect x="338" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-24: unknown / not synced</title></rect>
+  <rect x="338" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-25: unknown / not synced</title></rect>
+  <rect x="352" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-26: unknown / not synced</title></rect>
+  <rect x="352" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-27: unknown / not synced</title></rect>
+  <rect x="352" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-28: unknown / not synced</title></rect>
+  <rect x="352" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-29: unknown / not synced</title></rect>
+  <rect x="352" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-04-30: unknown / not synced</title></rect>
+  <rect x="352" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-01: unknown / not synced</title></rect>
+  <rect x="352" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-02: unknown / not synced</title></rect>
+  <rect x="366" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-03: unknown / not synced</title></rect>
+  <rect x="366" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-04: unknown / not synced</title></rect>
+  <rect x="366" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-05: unknown / not synced</title></rect>
+  <rect x="366" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-06: unknown / not synced</title></rect>
+  <rect x="366" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-07: unknown / not synced</title></rect>
+  <rect x="366" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-08: unknown / not synced</title></rect>
+  <rect x="366" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-09: unknown / not synced</title></rect>
+  <rect x="380" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-10: unknown / not synced</title></rect>
+  <rect x="380" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-11: unknown / not synced</title></rect>
+  <rect x="380" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-12: unknown / not synced</title></rect>
+  <rect x="380" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-13: unknown / not synced</title></rect>
+  <rect x="380" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-14: unknown / not synced</title></rect>
+  <rect x="380" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-15: unknown / not synced</title></rect>
+  <rect x="380" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-16: unknown / not synced</title></rect>
+  <rect x="394" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-17: unknown / not synced</title></rect>
+  <rect x="394" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-18: unknown / not synced</title></rect>
+  <rect x="394" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-19: unknown / not synced</title></rect>
+  <rect x="394" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-20: unknown / not synced</title></rect>
+  <rect x="394" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-21: unknown / not synced</title></rect>
+  <rect x="394" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-22: unknown / not synced</title></rect>
+  <rect x="394" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-23: unknown / not synced</title></rect>
+  <rect x="408" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-24: unknown / not synced</title></rect>
+  <rect x="408" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-25: unknown / not synced</title></rect>
+  <rect x="408" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-26: unknown / not synced</title></rect>
+  <rect x="408" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-27: unknown / not synced</title></rect>
+  <rect x="408" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-28: unknown / not synced</title></rect>
+  <rect x="408" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-29: unknown / not synced</title></rect>
+  <rect x="408" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-30: unknown / not synced</title></rect>
+  <rect x="422" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-05-31: unknown / not synced</title></rect>
+  <rect x="422" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-01: unknown / not synced</title></rect>
+  <rect x="422" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-02: unknown / not synced</title></rect>
+  <rect x="422" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-03: unknown / not synced</title></rect>
+  <rect x="422" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-04: unknown / not synced</title></rect>
+  <rect x="422" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-05: unknown / not synced</title></rect>
+  <rect x="422" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-06: unknown / not synced</title></rect>
+  <rect x="436" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-07: unknown / not synced</title></rect>
+  <rect x="436" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-08: unknown / not synced</title></rect>
+  <rect x="436" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-09: unknown / not synced</title></rect>
+  <rect x="436" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-10: unknown / not synced</title></rect>
+  <rect x="436" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-11: unknown / not synced</title></rect>
+  <rect x="436" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-12: unknown / not synced</title></rect>
+  <rect x="436" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-13: unknown / not synced</title></rect>
+  <rect x="450" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-14: unknown / not synced</title></rect>
+  <rect x="450" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-15: unknown / not synced</title></rect>
+  <rect x="450" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-16: unknown / not synced</title></rect>
+  <rect x="450" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-17: unknown / not synced</title></rect>
+  <rect x="450" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-18: unknown / not synced</title></rect>
+  <rect x="450" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-19: unknown / not synced</title></rect>
+  <rect x="450" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-20: unknown / not synced</title></rect>
+  <rect x="464" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-21: unknown / not synced</title></rect>
+  <rect x="464" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-22: unknown / not synced</title></rect>
+  <rect x="464" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-23: unknown / not synced</title></rect>
+  <rect x="464" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-24: unknown / not synced</title></rect>
+  <rect x="464" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-25: unknown / not synced</title></rect>
+  <rect x="464" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-26: unknown / not synced</title></rect>
+  <rect x="464" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-27: unknown / not synced</title></rect>
+  <rect x="478" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-28: unknown / not synced</title></rect>
+  <rect x="478" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-29: unknown / not synced</title></rect>
+  <rect x="478" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-06-30: unknown / not synced</title></rect>
+  <rect x="478" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-01: unknown / not synced</title></rect>
+  <rect x="478" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-02: unknown / not synced</title></rect>
+  <rect x="478" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-03: unknown / not synced</title></rect>
+  <rect x="478" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-04: unknown / not synced</title></rect>
+  <rect x="492" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-05: unknown / not synced</title></rect>
+  <rect x="492" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-06: unknown / not synced</title></rect>
+  <rect x="492" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-07: unknown / not synced</title></rect>
+  <rect x="492" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-08: unknown / not synced</title></rect>
+  <rect x="492" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-09: unknown / not synced</title></rect>
+  <rect x="492" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-10: unknown / not synced</title></rect>
+  <rect x="492" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-11: unknown / not synced</title></rect>
+  <rect x="506" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-12: unknown / not synced</title></rect>
+  <rect x="506" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-13: unknown / not synced</title></rect>
+  <rect x="506" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-14: unknown / not synced</title></rect>
+  <rect x="506" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-15: unknown / not synced</title></rect>
+  <rect x="506" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-16: unknown / not synced</title></rect>
+  <rect x="506" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-17: unknown / not synced</title></rect>
+  <rect x="506" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-18: unknown / not synced</title></rect>
+  <rect x="520" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-19: unknown / not synced</title></rect>
+  <rect x="520" y="159" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-07-20: 1,087,867 tokens</title></rect>
+  <rect x="520" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-21: unknown / not synced</title></rect>
+  <rect x="520" y="187" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-07-22: 4,868,798 tokens</title></rect>
+  <rect x="520" y="201" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-07-23: 30,474,044 tokens</title></rect>
+  <rect x="520" y="215" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-07-24: 16,380,741 tokens</title></rect>
+  <rect x="520" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-25: unknown / not synced</title></rect>
+  <rect x="534" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-26: unknown / not synced</title></rect>
+  <rect x="534" y="159" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-07-27: 17,897,167 tokens</title></rect>
+  <rect x="534" y="173" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-07-28: 37,547,802 tokens</title></rect>
+  <rect x="534" y="187" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-07-29: 12,013,703 tokens</title></rect>
+  <rect x="534" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-30: unknown / not synced</title></rect>
+  <rect x="534" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-07-31: unknown / not synced</title></rect>
+  <rect x="534" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-01: unknown / not synced</title></rect>
+  <rect x="548" y="145" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-08-02: 12,076,945 tokens</title></rect>
+  <rect x="548" y="159" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-08-03: 16,125,143 tokens</title></rect>
+  <rect x="548" y="173" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-08-04: 19,591,083 tokens</title></rect>
+  <rect x="548" y="187" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-08-05: 5,249,253 tokens</title></rect>
+  <rect x="548" y="201" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-06: 1,949,231 tokens</title></rect>
+  <rect x="548" y="215" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-07: 2,300,954 tokens</title></rect>
+  <rect x="548" y="229" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-08-08: 9,356,019 tokens</title></rect>
+  <rect x="562" y="145" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-09: 2,113,657 tokens</title></rect>
+  <rect x="562" y="159" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-10: 3,412,835 tokens</title></rect>
+  <rect x="562" y="173" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-08-11: 6,276,658 tokens</title></rect>
+  <rect x="562" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-12: unknown / not synced</title></rect>
+  <rect x="562" y="201" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-13: 680,046 tokens</title></rect>
+  <rect x="562" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-14: unknown / not synced</title></rect>
+  <rect x="562" y="229" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-08-15: 4,260,486 tokens</title></rect>
+  <rect x="576" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-16: unknown / not synced</title></rect>
+  <rect x="576" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-17: unknown / not synced</title></rect>
+  <rect x="576" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-18: unknown / not synced</title></rect>
+  <rect x="576" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-19: unknown / not synced</title></rect>
+  <rect x="576" y="201" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-20: 2,520,826 tokens</title></rect>
+  <rect x="576" y="215" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-08-21: 1,868,339 tokens</title></rect>
+  <rect x="576" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-22: unknown / not synced</title></rect>
+  <rect x="590" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-23: unknown / not synced</title></rect>
+  <rect x="590" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-24: unknown / not synced</title></rect>
+  <rect x="590" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-25: unknown / not synced</title></rect>
+  <rect x="590" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-26: unknown / not synced</title></rect>
+  <rect x="590" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-27: unknown / not synced</title></rect>
+  <rect x="590" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-28: unknown / not synced</title></rect>
+  <rect x="590" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-29: unknown / not synced</title></rect>
+  <rect x="604" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-30: unknown / not synced</title></rect>
+  <rect x="604" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-08-31: unknown / not synced</title></rect>
+  <rect x="604" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-01: unknown / not synced</title></rect>
+  <rect x="604" y="187" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-09-02: 2,342,704 tokens</title></rect>
+  <rect x="604" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-03: unknown / not synced</title></rect>
+  <rect x="604" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-04: unknown / not synced</title></rect>
+  <rect x="604" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-05: unknown / not synced</title></rect>
+  <rect x="618" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-06: unknown / not synced</title></rect>
+  <rect x="618" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-07: unknown / not synced</title></rect>
+  <rect x="618" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-08: unknown / not synced</title></rect>
+  <rect x="618" y="187" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-09: 13,887,046 tokens</title></rect>
+  <rect x="618" y="201" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-09-10: 6,248,741 tokens</title></rect>
+  <rect x="618" y="215" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-09-11: 530,885 tokens</title></rect>
+  <rect x="618" y="229" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-12: 21,807,232 tokens</title></rect>
+  <rect x="632" y="145" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-09-13: 132,066 tokens</title></rect>
+  <rect x="632" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-09-14: unknown / not synced</title></rect>
+  <rect x="632" y="173" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-09-15: 8,169,552 tokens</title></rect>
+  <rect x="632" y="187" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-16: 14,379,651 tokens</title></rect>
+  <rect x="632" y="201" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-09-17: 13,445,121 tokens</title></rect>
+  <rect x="632" y="215" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-09-18: 1,595,397 tokens</title></rect>
+  <rect x="632" y="229" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-09-19: 36,077,012 tokens</title></rect>
+  <rect x="646" y="145" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-20: 31,161,535 tokens</title></rect>
+  <rect x="646" y="159" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-09-21: 9,548,714 tokens</title></rect>
+  <rect x="646" y="173" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-22: 19,479,566 tokens</title></rect>
+  <rect x="646" y="187" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-09-23: 58,340,061 tokens</title></rect>
+  <rect x="646" y="201" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-09-24: 248,319,089 tokens</title></rect>
+  <rect x="646" y="215" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-09-25: 7,090,624 tokens</title></rect>
+  <rect x="646" y="229" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-09-26: 34,638,287 tokens</title></rect>
+  <rect x="660" y="145" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-09-27: 50,019,438 tokens</title></rect>
+  <rect x="660" y="159" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-28: 26,180,428 tokens</title></rect>
+  <rect x="660" y="173" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-09-29: 26,950,644 tokens</title></rect>
+  <rect x="660" y="187" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-09-30: 3,198,588 tokens</title></rect>
+  <rect x="660" y="201" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-01: 37,974,581 tokens</title></rect>
+  <rect x="660" y="215" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-02: 44,660,420 tokens</title></rect>
+  <rect x="660" y="229" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-03: 9,870,874 tokens</title></rect>
+  <rect x="674" y="145" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-10-04: 15,661,695 tokens</title></rect>
+  <rect x="674" y="159" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-05: 2,457,886 tokens</title></rect>
+  <rect x="674" y="173" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-06: 11,849,585 tokens</title></rect>
+  <rect x="674" y="187" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-10-07: 24,543,316 tokens</title></rect>
+  <rect x="674" y="201" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-08: 10,501,598 tokens</title></rect>
+  <rect x="674" y="215" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-09: 5,014,447 tokens</title></rect>
+  <rect x="674" y="229" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-10: 48,318,597 tokens</title></rect>
+  <rect x="688" y="145" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-11: 41,420,927 tokens</title></rect>
+  <rect x="688" y="159" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-12: 34,034,634 tokens</title></rect>
+  <rect x="688" y="173" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-13: 49,140,239 tokens</title></rect>
+  <rect x="688" y="187" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-10-14: 27,598,797 tokens</title></rect>
+  <rect x="688" y="201" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-15: 46,092,005 tokens</title></rect>
+  <rect x="688" y="215" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-16: 47,956,495 tokens</title></rect>
+  <rect x="688" y="229" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-17: 61,477,358 tokens</title></rect>
+  <rect x="702" y="145" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-10-18: 15,454,619 tokens</title></rect>
+  <rect x="702" y="159" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-19: 3,870,744 tokens</title></rect>
+  <rect x="702" y="173" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-20: 3,938,354 tokens</title></rect>
+  <rect x="702" y="187" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-10-21: 15,677,394 tokens</title></rect>
+  <rect x="702" y="201" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-22: 9,831,001 tokens</title></rect>
+  <rect x="702" y="215" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-10-23: 27,477,476 tokens</title></rect>
+  <rect x="702" y="229" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-24: 12,867,177 tokens</title></rect>
+  <rect x="716" y="145" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-25: 1,546,027 tokens</title></rect>
+  <rect x="716" y="159" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-26: 3,168,142 tokens</title></rect>
+  <rect x="716" y="173" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-27: 3,076,030 tokens</title></rect>
+  <rect x="716" y="187" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-10-28: 42,042,595 tokens</title></rect>
+  <rect x="716" y="201" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-29: 3,282,596 tokens</title></rect>
+  <rect x="716" y="215" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-10-30: 2,736,918 tokens</title></rect>
+  <rect x="716" y="229" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-10-31: 4,489,812 tokens</title></rect>
+  <rect x="730" y="145" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-11-01: 34,621,017 tokens</title></rect>
+  <rect x="730" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-11-02: unknown / not synced</title></rect>
+  <rect x="730" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-11-03: unknown / not synced</title></rect>
+  <rect x="730" y="187" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-11-04: 3,253,852 tokens</title></rect>
+  <rect x="730" y="201" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-11-05: 29,408,223 tokens</title></rect>
+  <rect x="730" y="215" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-11-06: 22,781,367 tokens</title></rect>
+  <rect x="730" y="229" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-11-07: 33,930,071 tokens</title></rect>
+  <rect x="744" y="145" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d"><title>2026-11-08: 2,777,489 tokens</title></rect>
+  <rect x="744" y="159" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-11-09: 19,489,862 tokens</title></rect>
+  <rect x="744" y="173" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d"><title>2026-11-10: 28,503,854 tokens</title></rect>
+  <rect x="744" y="187" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-11-11: 52,170,525 tokens</title></rect>
+  <rect x="744" y="201" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-11-12: 45,874,431 tokens</title></rect>
+  <rect x="744" y="215" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-11-13: 13,736,748 tokens</title></rect>
+  <rect x="744" y="229" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-11-14: 61,920,111 tokens</title></rect>
+  <rect x="758" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#e6edf3" stroke-dasharray="2 2"><title>2026-11-15: unknown / not synced</title></rect>
+  <rect x="758" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-16: future</title></rect>
+  <rect x="758" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-17: future</title></rect>
+  <rect x="758" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-18: future</title></rect>
+  <rect x="758" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-19: future</title></rect>
+  <rect x="758" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-20: future</title></rect>
+  <rect x="758" y="229" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-21: future</title></rect>
+  <rect x="30" y="259" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"/><text x="47" y="268" class="muted">Unknown / not synced</text>
+  <text x="620" y="268" class="muted">Less</text><rect x="656" y="259" width="10" height="10" rx="2" fill="#161b22"/><rect x="670" y="259" width="10" height="10" rx="2" fill="#0e4429"/><rect x="684" y="259" width="10" height="10" rx="2" fill="#006d32"/><rect x="698" y="259" width="10" height="10" rx="2" fill="#26a641"/><rect x="712" y="259" width="10" height="10" rx="2" fill="#39d353"/><text x="735" y="268" class="muted">More</text>
+  <text x="30" y="298" font-size="12">Last updated: 2026-11-15 16:24 UTC+08:00</text>
+  <text x="30" y="314" class="muted">Data uploaded to GitHub · daily redraw does not refresh this time</text>
+</svg>
