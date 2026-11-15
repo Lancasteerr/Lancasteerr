@@ -5,6 +5,7 @@ on:
     branches: ["main"]
     paths:
       - 'data/codex/usage.json'
+      - 'data/codex/config.json'
       - '.github/workflows/codex-activity.yml'
   schedule:
     - cron: '17 0 * * *'
@@ -16,8 +17,8 @@ permissions:
 
 jobs:
   render:
-    uses: Lancasteerr/my-codex-activity/.github/workflows/render.yml@0d9b710150c738fe8707c600f56e13f364164ace
+    uses: Lancasteerr/my-codex-activity/.github/workflows/render.yml@7078d7fb0338e3e00a62e25c143d0e9edcc7e272
     with:
-      tool_ref: '0d9b710150c738fe8707c600f56e13f364164ace'
+      tool_ref: '7078d7fb0338e3e00a62e25c143d0e9edcc7e272'
       timezone: "Asia/Singapore"
       theme: github-dark
