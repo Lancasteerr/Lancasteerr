@@ -3,7 +3,8 @@
   "source": "codex-app-server",
   "summary": {
     "lifetimeTokens": 1858093867,
-    "currentStreakDays": 11
+    "currentStreakDays": 11,
+    "longestStreakDays": 48
   },
   "daily": {
     "2026-07-20": 1087867,
