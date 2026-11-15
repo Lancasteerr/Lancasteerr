@@ -16,8 +16,8 @@ permissions:
 
 jobs:
   render:
-    uses: Lancasteerr/codex-activity/.github/workflows/render.yml@64a4f56fe26c978f70f0b4b15229da534b1256f5
+    uses: Lancasteerr/my-codex-activity/.github/workflows/render.yml@4b3c8a51580e999c2aa2adb49e7179f4f8e493d8
     with:
-      tool_ref: '64a4f56fe26c978f70f0b4b15229da534b1256f5'
+      tool_ref: '4b3c8a51580e999c2aa2adb49e7179f4f8e493d8'
       timezone: "Asia/Singapore"
       theme: github-dark
