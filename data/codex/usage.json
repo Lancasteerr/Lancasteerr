@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "codex-app-server",
   "summary": {
-    "lifetimeTokens": 2001623193,
-    "currentStreakDays": 15,
+    "lifetimeTokens": 2057928876,
+    "currentStreakDays": 18,
     "longestStreakDays": 48
   },
   "daily": {
@@ -96,6 +96,9 @@
     "2026-11-15": 30792448,
     "2026-11-16": 33490813,
     "2026-11-17": 35657876,
-    "2026-11-18": 6968816
+    "2026-11-18": 6968816,
+    "2026-11-19": 7955236,
+    "2026-11-20": 37439929,
+    "2026-11-21": 10910518
   }
 }
