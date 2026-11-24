@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="326" viewBox="0 0 820 326" xml:lang="zh-CN" role="img" aria-labelledby="title description">
   <title id="title">Codex 活动</title>
-  <desc id="description">最近 52 周，截至 2026-11-23；汇总数据截至上次同步。累计 Token：2057928876。上次数据上传：2026-11-23 14:57 UTC+08:00。虚线方格表示未知，而非零用量。</desc>
+  <desc id="description">最近 52 周，截至 2026-11-24；汇总数据截至上次同步。累计 Token：2057928876。上次数据上传：2026-11-23 14:57 UTC+08:00。虚线方格表示未知，而非零用量。</desc>
   <rect x="0.5" y="0.5" width="819" height="325" rx="14" fill="#0d1117" stroke="#30363d"/>
   <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif;fill:#e6edf3}.muted{fill:#8b949e;font-size:11px}.metric{font-size:25px;font-weight:600}.label{font-size:11px;fill:#8b949e}</style>
   <text x="30" y="32" font-size="18" font-weight="600">Codex 活动</text>
@@ -10,7 +10,7 @@
   <g class="muted"><text x="30" y="134">11月</text><text x="44" y="134">12月</text><text x="100" y="134">1月</text><text x="170" y="134">2月</text><text x="226" y="134">3月</text><text x="282" y="134">4月</text><text x="338" y="134">5月</text><text x="408" y="134">6月</text><text x="464" y="134">7月</text><text x="520" y="134">8月</text><text x="590" y="134">9月</text><text x="646" y="134">10月</text><text x="716" y="134">11月</text></g>
   <rect x="30" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2025-11-23: 显示范围外</title></rect>
   <rect x="30" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2025-11-24: 显示范围外</title></rect>
-  <rect x="30" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-25: 未知 / 尚未同步</title></rect>
+  <rect x="30" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2025-11-25: 显示范围外</title></rect>
   <rect x="30" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-26: 未知 / 尚未同步</title></rect>
   <rect x="30" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-27: 未知 / 尚未同步</title></rect>
   <rect x="30" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2025-11-28: 未知 / 尚未同步</title></rect>
@@ -373,8 +373,8 @@
   <rect x="744" y="215" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d"><title>2026-11-20: 37,439,929 Token</title></rect>
   <rect x="744" y="229" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d"><title>2026-11-21: 10,910,518 Token</title></rect>
   <rect x="758" y="145" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-11-22: 未知 / 尚未同步</title></rect>
-  <rect x="758" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#e6edf3" stroke-dasharray="2 2"><title>2026-11-23: 未知 / 尚未同步</title></rect>
-  <rect x="758" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-24: 未来日期</title></rect>
+  <rect x="758" y="159" width="10" height="10" rx="2" fill="#0d1117" stroke="#484f58" stroke-dasharray="2 2"><title>2026-11-23: 未知 / 尚未同步</title></rect>
+  <rect x="758" y="173" width="10" height="10" rx="2" fill="#0d1117" stroke="#e6edf3" stroke-dasharray="2 2"><title>2026-11-24: 未知 / 尚未同步</title></rect>
   <rect x="758" y="187" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-25: 未来日期</title></rect>
   <rect x="758" y="201" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-26: 未来日期</title></rect>
   <rect x="758" y="215" width="10" height="10" rx="2" fill="#0d1117" stroke="#30363d"><title>2026-11-27: 未来日期</title></rect>
